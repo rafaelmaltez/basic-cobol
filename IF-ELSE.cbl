@@ -20,6 +20,6 @@
            ELSE
                MOVE "YES" TO WS-CAN-DRIVE
            END-IF
-           DISPLAY "Can drive? " WS-CAN-DRIVE
+           DISPLAY "Is allowed to drive? " WS-CAN-DRIVE
             STOP RUN.
        END PROGRAM IF-ELSE.
