@@ -1,0 +1,2 @@
+002,fernanda romao      ,belo horizonte
+003,cliente numero tres ,Sao Paulo
